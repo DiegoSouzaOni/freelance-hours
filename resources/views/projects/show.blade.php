@@ -1,3 +1,4 @@
-<div>
-    <!-- People find pleasure in different ways. I find it in keeping my mind clear. - Marcus Aurelius -->
-</div>
+<x.layouts.app>
+    <livewire:projects.show :$project/>
+    <livewire:projects.proposals :$project/>
+</x.layouts.app>
